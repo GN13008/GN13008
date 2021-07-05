@@ -16,7 +16,7 @@ SQL, git, GitHub, Heroku and Ruby on Rails.**
 - ⏳ JavaScript
 - 👀 React
 
-Contact
+## Contact
 
 - https://www.linkedin.com/in/guillaumenegro
 - negro.guillaume@gmail.com
