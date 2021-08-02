@@ -18,8 +18,9 @@ SQL, git, GitHub, Heroku and Ruby on Rails.**
 
 ## Contact
 
-- https://www.linkedin.com/in/guillaumenegro
-- negro.guillaume@gmail.com
+- PortFolio : https://gndevelopment.fr/
+- Linkedin : https://www.linkedin.com/in/guillaumenegro
+- Mail : negro.guillaume@gmail.com
 
 <!---
 GN13008/GN13008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
