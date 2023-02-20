@@ -20,6 +20,7 @@
 
 - 💻 Angular, VueJS, PHP Laravel, Ruby on rails, HTML
 - 🎨 CSS, TailwindCSS, Vuetify, Angular material, Figma
+- 💾 MongoDB, MySQL
 - 🛠️ Gitlab, CICD, Ansible, Docker, VS Code, Gitflow, and GitHub
 - ⏳ React
 - 👀 NextJS, Flutter
