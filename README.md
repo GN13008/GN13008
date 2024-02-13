@@ -5,7 +5,7 @@
 > **9-week full-time intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES6,
 > SQL, git, GitHub, Heroku and Ruby on Rails.**
 
-### I am now a young web developper focused on improving my skills with a few project ideas in mind.
+### I am now a web developper focused on improving my skills with a few project ideas in mind.
 
 - 👀 I’m interested in web development and mechanical science
 - 🏄‍♂️ I’m in love with watersports and everything linked to the sea
@@ -27,7 +27,7 @@
 
 ## Contact
 
-- PortFolio : https://gndevelopment.fr/
+- PortFolio : https://ateliergnd.fr/
 - Linkedin : https://www.linkedin.com/in/guillaumenegro
 - Mail : negro.guillaume.dev@gmail.com
 
