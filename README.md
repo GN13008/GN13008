@@ -1,6 +1,6 @@
 # Hi 👋, I’m Guillaume. 30 years old, full stack web engineer and water sports lover 🏄‍♂️ !
 
-### Web Engineer.
+## Web Engineer
 
 As a FullStack Web Engineer at Stilog, I work on different
 applications. Mostly on the Front, I keep a Full Stack aspect as
